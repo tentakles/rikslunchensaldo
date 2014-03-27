@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiksLunchenSaldo", "RiksLunchenSaldo\RiksLunchenSaldo.csproj", "{2A832C82-5B50-42A5-B81C-4B7BB2A9ECEA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{5B410BD0-D084-4C38-846D-766CFB475BC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiksLunchenSaldoWebUi", "RiksLunchenSaldoWebUi\RiksLunchenSaldoWebUi.csproj", "{BEFCDDC1-DC32-4D62-8AC0-341D6755978C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +23,10 @@ Global
 		{5B410BD0-D084-4C38-846D-766CFB475BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B410BD0-D084-4C38-846D-766CFB475BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B410BD0-D084-4C38-846D-766CFB475BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFCDDC1-DC32-4D62-8AC0-341D6755978C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFCDDC1-DC32-4D62-8AC0-341D6755978C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFCDDC1-DC32-4D62-8AC0-341D6755978C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFCDDC1-DC32-4D62-8AC0-341D6755978C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
