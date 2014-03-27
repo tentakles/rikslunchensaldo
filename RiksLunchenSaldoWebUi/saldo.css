@@ -1,0 +1,39 @@
+﻿body {
+    font-family: verdana;
+    background-color: #ffffff;
+    font-size: 28px;
+    margin: 20px;
+}
+
+.largelineheight {
+    line-height: 200%;
+}
+
+a {
+    color: #737af6;
+}
+
+.coloredtext {
+    color: #737af6;
+}
+
+.errortext {
+    color: #ff0052;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+
+.largetext {
+    font-size: 80px;
+}
+
+.mediumtext {
+    font-size: 26px;
+}
+
+.centered {
+    text-align: center;
+}

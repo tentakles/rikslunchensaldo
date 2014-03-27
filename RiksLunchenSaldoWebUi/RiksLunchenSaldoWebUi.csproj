@@ -55,6 +55,7 @@
     <Content Include="Balance.aspx" />
     <Content Include="Global.asax" />
     <Content Include="index.html" />
+    <Content Include="saldo.css" />
     <Content Include="saldo.js" />
     <Content Include="Web.config" />
   </ItemGroup>
